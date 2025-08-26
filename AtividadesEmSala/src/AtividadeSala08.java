@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class AtividadeSala08 {
+    public static void main(String[] args) {
+        Scanner leia = new Scanner(System.in);
+        String nome = "";
+        int idade = 0;
+
+        System.out.println("Digite seu nome: ");
+        nome = leia.nextLine();
+
+        System.out.println("Digite seu nome: ");
+        idade = leia.nextInt();
+
+        System.out.println("Seu nome é: " + nome);
+        System.out.println("Você tem " + idade + " anos de idade. ");
+
+    }
+}
