@@ -5,3 +5,4 @@ public class Atividade6 {
         System.out.println("A diade: " + idade + "\nEm meses é: " + idade * numeroMeses);
     }
 }
+//
