@@ -19,6 +19,6 @@ public class Atividade15 {
         System.out.println("Depois de x -= 4, x é: " + x);
 
         System.out.println("Valor final de x: " + x);
-        scanner.close();
+
     }
 }
