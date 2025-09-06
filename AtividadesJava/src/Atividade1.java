@@ -5,4 +5,4 @@ public class Atividade1 {
         System.out.println("Olá eu sou " + nome + " moro em " + cidade + "/" + PAIS);
     }
 }
-//
+//aa

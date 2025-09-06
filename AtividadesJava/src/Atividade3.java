@@ -10,4 +10,4 @@ public class Atividade3 {
         System.out.println("Alunos: " + qtdAlunos + " Media: " + mediaTurma+ "% " + "Aprovados: " + aprovada );
     }
 }
-//
+//a

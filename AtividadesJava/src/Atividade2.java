@@ -6,4 +6,4 @@ public class Atividade2 {
         System.out.println("Data de Nascimento:\n" + dia + "\n" + mes + "\n" + ano );
     }
 }
-//
+//a
